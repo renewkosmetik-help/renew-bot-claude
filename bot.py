@@ -7,7 +7,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "7406318604:AAEXc1Q4lOcF09m7rh-eZTuItYd9hTHYU7M")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7406318604:AAGonyOcJPVUzawdS_BPXJDZe4enKajKrQg")
 
 # ================================================================
 # ПОЛНАЯ БАЗА ЗНАНИЙ — RENEW + CARELIKA + LARIMIDE
